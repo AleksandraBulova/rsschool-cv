@@ -12,8 +12,8 @@
 
 ## Briefly About Myself
 
-I am young, ambitious, used to go to my goal. I can and like to work in a team. Now I want to spend all my strength and energy on training and developing my professional qualities, for this I am ready to work hard, study and improve myself. I am sociable, easy to train, hardworking, accurate, diligent, attentive to details.  
-I am easy-going and like to spend my free time participating in various quests and solving logic problems. I like to travel very much, and at the same time I prefer to get to know the country “from the inside” in order to feel its flavor and local features, including national cuisine.  
+I am young ambitious used to go to my goal. I like to work in a team. Now I want to spend all my strength and energy on training and developing my professional skills. I am ready to work hard, study and improve myself. I am sociable easy to train hardworking accurate diligent attentive to details.  
+I like to spend my free time participating in various quests and solving logic tasks. I like to travel very much and at the same time I prefer to get to know the country “from the inside” in order to feel its flavor and local features including national cuisine.  
 
 ***
 
@@ -47,7 +47,7 @@ minSum({12,6,10,26,3,24})
 
 ## Experience
 
-I started learning *HTML*, *CSS* and *JS* on my own. Here is an example of several projects that I implemented during my training:  
+I was started learn *HTML*, *CSS* and *JS* on my own. Here is an example of several projects that I implemented during my training:  
 * [**Portfolio**](https://aleksandrabulova.github.io/Portfolio)
 * [**Singolo**](https://aleksandrabulova.github.io/singolo)
 * [**ToDoList**](https://aleksandrabulova.github.io/ToDoList)
