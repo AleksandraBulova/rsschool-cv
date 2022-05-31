@@ -12,7 +12,7 @@ body {
 .wrapper {
   margin: 0 auto;
 
-  width: 1000px;
+  width: 1200px;
 
   background-color: #ffffff;
   border-radius: 10px;
@@ -96,14 +96,13 @@ h2 {
   flex-direction: column;
   align-items: center;
 
-  padding-left: 40px;
+  padding-left: 100px;
 }
 
 .information {
   display: flex;
-  flex-wrap: wrap;
   align-items: center;
-  gap: 0 150px;
+  gap: 200px;
 }
 
 .contact_data {
@@ -128,7 +127,8 @@ h2 {
 /*MAIN*/
 /*Section ABOUT_ME*/
 
-.about_me {
+.about_me,
+.сontact {
   padding-top: 15px;
 
   position: relative;
@@ -160,7 +160,7 @@ h2 {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 20px 120px;
+  gap: 20px 10px;
 }
 
 .skills li {
@@ -194,3 +194,46 @@ h2 {
   border-radius: 10px;
   background-color: #F5DEB3;
 }
+
+/*MAIN*/
+/*Section EXPERIENCE*/
+
+.experience {
+  padding-top: 15px;
+
+  position: relative;
+}
+
+.experience a {
+  text-decoration: none;
+  text-align: center;
+  font-size: 18px;
+  font-weight: 600;
+  color: #000000;
+}
+
+.experience a:hover {
+  color: #D2B48C;
+}
+
+.experience img {
+  height: 145px;
+  width: 280px;
+}
+
+.experience li {
+  display: flex;
+  flex-direction: column;
+  gap: 15px 0;
+}
+
+.experience ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px 125px;
+
+  padding: 0;
+  padding-top: 20px;
+}
+
