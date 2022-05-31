@@ -108,7 +108,7 @@ h2 {
 
 .contact_data {
   margin: 0;
-  
+
   font-weight: 600;
 }
 
@@ -123,4 +123,21 @@ h2 {
 
 .сontact li {
   padding-bottom: 15px;
+}
+
+/*MAIN*/
+/*Section ABOUT_ME*/
+
+.about_me {
+  padding-top: 15px;
+
+  position: relative;
+}
+
+.anchor {
+  position: absolute;
+  top: -60px;
+
+  width: 0;
+  height: 0;
 }
