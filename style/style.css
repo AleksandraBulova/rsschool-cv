@@ -1,1 +1,64 @@
-/*STYLE*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  padding: 50px 0;
+
+  font-family: 'DM Sans', sans-serif;
+  background-color: #D2B48C;
+}
+
+.wrapper {
+  margin: 0 auto;
+
+  width: 1000px;
+
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 5px #F5DEB3;
+}
+
+/*HEADER*/
+
+header {
+  position: sticky;
+  top: -10px;
+  z-index: 10;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 20px 40px;
+
+  border-radius: 10px;
+  background-color: #F5DEB3;
+
+}
+
+.navigation img {
+  height: 50px;
+  width: 135px;
+}
+
+.navigation ul {
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+
+  padding: 0;
+
+  list-style: none;
+}
+
+.navigation a {
+  text-decoration: none;
+  font-size: 17px;
+  color: #000000;
+}
+
+.navigation a:hover {
+  color: #ffffff;
+}
