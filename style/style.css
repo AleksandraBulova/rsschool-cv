@@ -296,5 +296,27 @@ h3 {
   margin-top: 20px;
 }
 
+/*FOOTER*/
+
+.info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 10px 40px;
+
+  border-radius: 10px;
+  background-color: #F5DEB3;
+}
+
+.rs_school,
+.GitHub_Logo {
+  height: 50px;
+  width: 135px;
+}
 
 
+.info p{
+  font-size: 23px;
+  font-weight: bold;
+}
