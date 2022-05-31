@@ -62,3 +62,65 @@ header {
 .navigation a:hover {
   color: #ffffff;
 }
+
+/*MAIN*/
+/*Section INFORMATION*/
+
+main {
+  padding: 10px 40px 30px 40px;
+
+  font-size: 18px;
+}
+
+h1 {
+  margin: 0px;
+  padding: 20px 0 40px 0;
+}
+
+h2 {
+  margin: 0px;
+  padding: 30px 0 25px 0;
+
+  text-align: center;
+}
+
+.nameUser img {
+  width: 200px;
+  height: 300px;
+
+  box-shadow: 0 0 10px 3px #D2B48C;
+}
+
+.nameUser {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-left: 40px;
+}
+
+.information {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 150px;
+}
+
+.contact_data {
+  margin: 0;
+  
+  font-weight: 600;
+}
+
+.сontact a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.сontact a:hover {
+  color: #D2B48C;
+}
+
+.сontact li {
+  padding-bottom: 15px;
+}
