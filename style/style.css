@@ -144,6 +144,7 @@ h2 {
 
 /*MAIN*/
 /*Section SKILLS*/
+
 .skills {
   padding-top: 15px;
 
@@ -172,4 +173,24 @@ h2 {
   width: 260px;
 
   font-size: 18px;
+}
+
+/*MAIN*/
+/*Section CODE_EXAMPLE*/
+
+.code_example {
+  padding-top: 15px;
+
+  position: relative;
+}
+
+.code_example code {
+  display: flex;
+  align-items: center;
+
+  margin-top: 35px;
+
+  border: 2px solid #000000;
+  border-radius: 10px;
+  background-color: #F5DEB3;
 }
