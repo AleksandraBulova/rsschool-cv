@@ -141,3 +141,35 @@ h2 {
   width: 0;
   height: 0;
 }
+
+/*MAIN*/
+/*Section SKILLS*/
+.skills {
+  padding-top: 15px;
+
+  position: relative;
+}
+
+.skills img {
+  width: 100px;
+  height: 100px;
+}
+
+.skills ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px 120px;
+}
+
+.skills li {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+
+  padding-bottom: 10px;
+
+  width: 260px;
+
+  font-size: 18px;
+}
