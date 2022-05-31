@@ -19,6 +19,10 @@ body {
   box-shadow: 0 0 20px 5px #F5DEB3;
 }
 
+p,li {
+  font-size: 20px;
+}
+
 /*HEADER*/
 
 header {
@@ -46,7 +50,7 @@ header {
 .navigation ul {
   display: flex;
   justify-content: space-between;
-  gap: 15px;
+  gap: 20px;
 
   padding: 0;
 
@@ -55,7 +59,7 @@ header {
 
 .navigation a {
   text-decoration: none;
-  font-size: 17px;
+  font-size: 20px;
   color: #000000;
 }
 
@@ -268,6 +272,29 @@ h3 {
   margin-bottom: 30px;
 }
 
+/*MAIN*/
+/*Section LANGUAGES*/
+
+.languages {
+  padding-top: 15px;
+
+  position: relative;
+}
+
+.languages img {
+  width: 450px;
+  height: 165px;
+
+  border: 1px solid #3fafd1;
+}
+
+.english {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  margin-top: 20px;
+}
 
 
 
