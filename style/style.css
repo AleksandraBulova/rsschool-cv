@@ -237,3 +237,37 @@ h2 {
   padding-top: 20px;
 }
 
+/*MAIN*/
+/*Section EDUCATION*/
+
+.education {
+  padding-top: 15px;
+
+  position: relative;
+}
+
+.education_list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.education ul {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.education_img {
+  width: 320px;
+  height: 160px;
+}
+
+h3 {
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+
+
+
